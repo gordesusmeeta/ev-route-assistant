@@ -1,0 +1,51 @@
+route_sector_id,start_point,end_point,distance_km,elevation_gain_m,avg_incline_deg,base_energy_drain_wh_km,road_condition_index
+SEC-EV-001,Chandigarh,Pinjore,22.0,45.0,0.5,140.0,8.5
+SEC-EV-002,Pinjore,Kalka,5.5,60.0,1.2,155.0,8.0
+SEC-EV-003,Kalka,Parwanoo,4.8,120.0,3.5,185.0,7.2
+SEC-EV-004,Parwanoo,Datyar,12.2,310.0,5.1,220.0,7.5
+SEC-EV-005,Datyar,Dharampur,14.1,420.0,5.8,240.0,7.0
+SEC-EV-006,Dharampur,Kumarhatti,5.2,110.0,4.2,195.0,7.8
+SEC-EV-007,Kumarhatti,Solan,8.5,-40.0,-1.1,90.0,8.2
+SEC-EV-008,Solan,Salogra,7.1,130.0,3.9,180.0,7.4
+SEC-EV-009,Salogra,Kandaghat,9.3,190.0,4.5,210.0,7.1
+SEC-EV-010,Kandaghat,Shoghi,17.5,610.0,6.2,265.0,6.8
+SEC-EV-011,Shoghi,Taradevi,6.2,140.0,4.1,190.0,7.5
+SEC-EV-012,Taradevi,Shimla Bypass,7.0,220.0,5.5,235.0,8.0
+SEC-EV-013,Shimla,Dhalli,8.2,180.0,4.8,215.0,6.5
+SEC-EV-014,Dhalli,Kufri,8.0,430.0,7.1,290.0,6.2
+SEC-EV-015,Kufri,Fagu,6.1,-50.0,-1.5,85.0,6.9
+SEC-EV-016,Fagu,Theog,12.3,110.0,2.1,160.0,6.0
+SEC-EV-017,Mettupalayam,Kallar,9.0,50.0,0.8,145.0,8.8
+SEC-EV-018,Kallar,Burliyar,11.2,480.0,6.5,275.0,7.0
+SEC-EV-019,Burliyar,Coonoor,15.1,720.0,7.4,310.0,6.5
+SEC-EV-020,Coonoor,Wellington,3.2,80.0,3.2,175.0,8.5
+SEC-EV-021,Wellington,Aravankadu,4.5,95.0,3.8,180.0,8.2
+SEC-EV-022,Aravankadu,Ketti,5.8,110.0,4.2,195.0,7.9
+SEC-EV-023,Ketti,Ooty Charing Cross,7.2,190.0,5.0,225.0,8.0
+SEC-EV-024,Kiratpur Sahib,Anandpur Sahib,11.5,25.0,0.3,138.0,7.5
+SEC-EV-025,Anandpur Sahib,Nangal,21.2,40.0,0.4,140.0,7.1
+SEC-EV-026,Nangal,Una,16.8,55.0,0.6,142.0,8.0
+SEC-EV-027,Una,Jhalera,7.3,85.0,1.8,160.0,7.4
+SEC-EV-028,Jhalera,Bangana,22.1,340.0,4.9,215.0,5.8
+SEC-EV-029,Bangana,Bhakra,18.5,120.0,2.5,165.0,5.2
+SEC-EV-030,Bilaspur,Ghagas,13.2,140.0,3.1,170.0,6.4
+SEC-EV-031,Ghagas,Barmana,11.0,210.0,4.3,200.0,6.1
+SEC-EV-032,Barmana,Sundernagar,19.4,280.0,4.1,195.0,6.9
+SEC-EV-033,Sundernagar,Ner Chowk,12.5,35.0,0.4,139.0,7.8
+SEC-EV-034,Ner Chowk,Mandi,14.2,90.0,1.5,155.0,8.2
+SEC-EV-035,Mandi,Pandoh,18.1,290.0,4.8,210.0,5.5
+SEC-EV-036,Pandoh,Aut Tunnel,21.0,180.0,2.9,168.0,6.0
+SEC-EV-037,Aut Tunnel,Bhuntar,17.3,130.0,2.2,162.0,7.3
+SEC-EV-038,Bhuntar,Kullu,10.5,95.0,1.9,158.0,7.9
+SEC-EV-039,Kullu,Raison,13.1,150.0,3.0,170.0,8.1
+SEC-EV-040,Raison,15 Mile,14.5,210.0,3.8,185.0,7.6
+SEC-EV-041,15 Mile,Manali,12.2,340.0,5.6,235.0,8.0
+SEC-EV-042,Kathgodam,Jeolikote,17.5,520.0,6.1,255.0,7.2
+SEC-EV-043,Jeolikote,Nainital,16.2,740.0,7.8,320.0,6.8
+SEC-EV-044,Pune,Khanki,21.5,65.0,0.5,142.0,8.6
+SEC-EV-045,Khanki,Shirwal,28.0,110.0,1.1,150.0,8.4
+SEC-EV-046,Shirwal,Khandala Ghat,15.3,490.0,6.9,285.0,7.5
+SEC-EV-047,Khandala,Wai Phata,22.4,-80.0,-1.2,92.0,8.1
+SEC-EV-048,Wai Phata,Pasarni Ghat,11.2,580.0,7.9,330.0,6.6
+SEC-EV-049,Pasarni Ghat,Panchgani,4.5,120.0,5.2,230.0,7.2
+SEC-EV-050,Panchgani,Mahabaleshwar,19.1,240.0,3.6,180.0,7.8

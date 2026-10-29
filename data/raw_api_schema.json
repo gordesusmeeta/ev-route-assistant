@@ -1,0 +1,50 @@
+{
+  "api_source": "Open Charge Map / Bureau of Energy Efficiency (BEE) India Portal",
+  "query_route": "Chandigarh-Shimla Highway (NH-5)",
+  "active_stations_in_radius": [
+    {
+      "station_id": "IN-EV-9921",
+      "operator": "Tata Power EZ Charge",
+      "location": {
+        "name": "Dharampur Plaza Corridor",
+        "latitude": 30.9062,
+        "longitude": 76.9845,
+        "nearest_sector": "SEC-EV-005"
+      },
+      "connections": [
+        {
+          "connection_type": "CCS Type 2",
+          "power_kw": 50,
+          "status": "Available",
+          "current_type": "DC"
+        },
+        {
+          "connection_type": "Type 2 AC",
+          "power_kw": 22,
+          "status": "Occupied",
+          "current_type": "AC"
+        }
+      ],
+      "pricing_per_kwh_inr": 18.50
+    },
+    {
+      "station_id": "IN-EV-4412",
+      "operator": "Jio-bp pulse",
+      "location": {
+        "name": "Solan Bypass Fuel Station",
+        "latitude": 30.9124,
+        "longitude": 77.1021,
+        "nearest_sector": "SEC-EV-007"
+      },
+      "connections": [
+        {
+          "connection_type": "CCS Type 2",
+          "power_kw": 60,
+          "status": "Available",
+          "current_type": "DC"
+        }
+      ],
+      "pricing_per_kwh_inr": 21.00
+    }
+  ]
+}

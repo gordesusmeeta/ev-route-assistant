@@ -1,0 +1,124 @@
+{
+  "api_source": "Open Charge Map / Bureau of Energy Efficiency (BEE) India Portal",
+  "query_route": "Chandigarh-Shimla Highway (NH-5)",
+  "last_updated": "2026-09-01T08:00:00Z",
+  "stations": [
+    {
+      "station_id": "IN-EV-9921",
+      "operator": "Tata Power EZ Charge",
+      "location": {
+        "name": "Dharampur Plaza Corridor",
+        "latitude": 30.9062,
+        "longitude": 76.9845,
+        "nearest_sector": "SEC-EV-005"
+      },
+      "connections": [
+        {"connection_type": "CCS Type 2", "power_kw": 50, "status": "Available", "current_type": "DC"},
+        {"connection_type": "Type 2 AC", "power_kw": 22, "status": "Occupied", "current_type": "AC"}
+      ],
+      "pricing_per_kwh_inr": 18.50
+    },
+    {
+      "station_id": "IN-EV-4412",
+      "operator": "Jio-bp pulse",
+      "location": {
+        "name": "Solan Bypass Fuel Station",
+        "latitude": 30.9124,
+        "longitude": 77.1021,
+        "nearest_sector": "SEC-EV-007"
+      },
+      "connections": [
+        {"connection_type": "CCS Type 2", "power_kw": 60, "status": "Available", "current_type": "DC"}
+      ],
+      "pricing_per_kwh_inr": 21.00
+    },
+    {
+      "station_id": "IN-EV-1187",
+      "operator": "Statiq",
+      "location": {
+        "name": "Kalka Railway Station Parking",
+        "latitude": 30.8398,
+        "longitude": 76.9354,
+        "nearest_sector": "SEC-EV-002"
+      },
+      "connections": [
+        {"connection_type": "CHAdeMO", "power_kw": 50, "status": "Available", "current_type": "DC"},
+        {"connection_type": "Type 2 AC", "power_kw": 7, "status": "Available", "current_type": "AC"}
+      ],
+      "pricing_per_kwh_inr": 15.75
+    },
+    {
+      "station_id": "IN-EV-2075",
+      "operator": "Tata Power EZ Charge",
+      "location": {
+        "name": "Parwanoo Toll Plaza",
+        "latitude": 30.8390,
+        "longitude": 76.9611,
+        "nearest_sector": "SEC-EV-003"
+      },
+      "connections": [
+        {"connection_type": "CCS Type 2", "power_kw": 30, "status": "Occupied", "current_type": "DC"},
+        {"connection_type": "Type 2 AC", "power_kw": 22, "status": "Available", "current_type": "AC"}
+      ],
+      "pricing_per_kwh_inr": 17.25
+    },
+    {
+      "station_id": "IN-EV-3390",
+      "operator": "Ather Grid",
+      "location": {
+        "name": "Kumarhatti Market Complex",
+        "latitude": 30.9280,
+        "longitude": 77.0980,
+        "nearest_sector": "SEC-EV-006"
+      },
+      "connections": [
+        {"connection_type": "Type 2 AC", "power_kw": 15, "status": "Available", "current_type": "AC"}
+      ],
+      "pricing_per_kwh_inr": 14.00
+    },
+    {
+      "station_id": "IN-EV-5528",
+      "operator": "Jio-bp pulse",
+      "location": {
+        "name": "Solan City Center",
+        "latitude": 30.9045,
+        "longitude": 77.0967,
+        "nearest_sector": "SEC-EV-007"
+      },
+      "connections": [
+        {"connection_type": "CCS Type 2", "power_kw": 100, "status": "Available", "current_type": "DC"},
+        {"connection_type": "CCS Type 2", "power_kw": 50, "status": "Available", "current_type": "DC"}
+      ],
+      "pricing_per_kwh_inr": 22.50
+    },
+    {
+      "station_id": "IN-EV-6644",
+      "operator": "Statiq",
+      "location": {
+        "name": "Chandigarh Sector 17 Plaza",
+        "latitude": 30.7410,
+        "longitude": 76.7822,
+        "nearest_sector": "SEC-EV-001"
+      },
+      "connections": [
+        {"connection_type": "CCS Type 2", "power_kw": 60, "status": "Available", "current_type": "DC"},
+        {"connection_type": "Type 2 AC", "power_kw": 22, "status": "Available", "current_type": "AC"}
+      ],
+      "pricing_per_kwh_inr": 16.00
+    },
+    {
+      "station_id": "IN-EV-7761",
+      "operator": "Tata Power EZ Charge",
+      "location": {
+        "name": "Pinjore Garden Road",
+        "latitude": 30.7980,
+        "longitude": 76.9006,
+        "nearest_sector": "SEC-EV-001"
+      },
+      "connections": [
+        {"connection_type": "CHAdeMO", "power_kw": 50, "status": "Faulted", "current_type": "DC"}
+      ],
+      "pricing_per_kwh_inr": 19.00
+    }
+  ]
+}
